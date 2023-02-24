@@ -29,6 +29,7 @@ You  need your NAO robot and a deck of planning poker cards.
 
 We are currently developing a German version for teachers.
 
+### Choregraphe screenshot:
 
 ![WhatsApp Image 2023-02-24 at 13 22 27](https://user-images.githubusercontent.com/68842909/221185247-b4dcadd9-987c-4841-a40f-12494261698a.jpeg)
 
