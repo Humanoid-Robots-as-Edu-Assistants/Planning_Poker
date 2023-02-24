@@ -3,22 +3,22 @@
 
 ### About
 
-Planning poker is a collaborative, team-based method of estimation used by agile teams. This method is used in agile software development <br>
-and project management to help teams working together on a project to determine the effort required to complete specific tasks. The team <br>
-comes together to estimate the effort required to complete a set of specific tasks by selecting a card from a deck of planning poker <br>
+Planning poker is a collaborative, team-based method of estimation used by agile teams. This method is used in agile software development 
+and project management to help teams working together on a project to determine the effort required to complete specific tasks. The team 
+comes together to estimate the effort required to complete a set of specific tasks by selecting a card from a deck of planning poker 
 cards, which typically feature numbers representing different levels of effort, using the Fibonacci scale. 
 
 ### How the program works
 
-The application "Planning Poker with NAO" has five main parts, i. e. “Introduction”, “Explanation”, “Planning Poker”, “Create protocol” <br>
-and “Ending”. In the “Introduction”, the guidelines are presented, on how the participants can interact with the robot, for example by <br>
-speech or by pressing the foot bumpers. In the section “Explanation”, the robot explains the concept of planning poker, its rules and <br>
-tasks to be estimated. Next part “Planning Poker” is the actual play of the game with estimation of each tasks by the team of players. <br>
+The application "Planning Poker with NAO" has five main parts, i. e. “Introduction”, “Explanation”, “Planning Poker”, “Create protocol” 
+and “Ending”. In the “Introduction”, the guidelines are presented, on how the participants can interact with the robot, for example by
+speech or by pressing the foot bumpers. In the section “Explanation”, the robot explains the concept of planning poker, its rules and
+tasks to be estimated. Next part “Planning Poker” is the actual play of the game with estimation of each tasks by the team of players. 
 <br>
-In the “Create protocol” part, the NAO robot creates a document with the results from each estimation. The estimated numbers are automatically <br>
-saved and matched with the corresponding items in a PDF file. After every estimation round, the agreed number from the Fibonacci scale is <br>
-appended to a local text file. At the very end of the simulation, a python script takes every entry and matches the items to the numbers. <br>
-The file can be accessed in Choregraphe in the tab Connection > Advanced > File Transfer. The PDF file can be later accessed and downloaded <br>
+In the “Create protocol” part, the NAO robot creates a document with the results from each estimation. The estimated numbers are automatically 
+saved and matched with the corresponding items in a PDF file. After every estimation round, the agreed number from the Fibonacci scale is 
+appended to a local text file. At the very end of the simulation, a python script takes every entry and matches the items to the numbers.
+The file can be accessed in Choregraphe in the tab Connection > Advanced > File Transfer. The PDF file can be later accessed and downloaded 
 from Choregraphe. Finally, the “Ending” part includes the reflection question and the review of learnings.
 
 ### What do you need?
